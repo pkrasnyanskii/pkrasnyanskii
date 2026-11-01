@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Petr
 
-<!--
-**pkrasnyanskii/pkrasnyanskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps and backend engineer from Novosibirsk, Russia. I work at CFT Group on deployments and infrastructure, and study Computer Science at Novosibirsk State University (2024–2028).
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deploy and maintain services on Kubernetes using ArgoCD and Helm
+- Containerize applications with Docker and manage secrets
+- Write backend services in Kotlin and Java
+- Automate routine work with Python scripts and bots
+- Teach programming to students in my spare time
+
+## Tech
+
+- **Infrastructure:** Kubernetes, ArgoCD, Helm, Docker, Nginx, GitHub Actions
+- **Observability:** Prometheus, Grafana
+- **Languages:** Kotlin, Java, Python, SQL, C, Clojure
+- **Tools:** Git, Gradle
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/digitalunites)
