@@ -1,6 +1,6 @@
 # Hi, I'm Petr
 
-DevOps and backend engineer from Novosibirsk, Russia. I work at CFT Group on deployments and infrastructure, and study Computer Science at Novosibirsk State University (2024–2028).
+DevOps and backend engineer from Novosibirsk, Russia. I study Computer Science at Novosibirsk State University (2024–2028).
 
 ## What I do
 
